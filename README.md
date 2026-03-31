@@ -261,4 +261,4 @@ POST /api/login
 
 ## License
 
-MIT © Evently Team
+MIT © EVENTORA Team
